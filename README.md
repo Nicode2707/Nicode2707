@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> I'm [Niraj](https://github.com/nirajkr2707/nirajkr2707.git) 
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> I'm [Niraj](https://github.com/nirajkr2707/Nicode2707.git) 
 <h3 align="center"> I design, code, test, and maintain applications to solve real-world problems and meet user needs.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajkr2707&label=Profile%20views&color=0e75b6&style=flat" alt="nirajkr2707" /> </p>
@@ -24,9 +24,9 @@
 # 📊 GitHub Stats:
 <div align="center">
     <!--<img src="https://github-profile-trophy.vercel.app/?username=DarkMortal&theme=onestar&no-frame=true&column=3&row=2" alt="GitHub Streak Stats"/><br/>-->
-     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirajkr2707&show_icons=true&locale=en" alt="nirajkr2707" /></p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajkr2707&show_icons=true&locale=en&layout=compact" alt="nirajkr2707" /></p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajkr2707&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=0E8DE4&fire=012148B&ring=0E8DE4" alt="GitHub Streak Stats"/><br/><br/>
+     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicode2707&show_icons=true&locale=en" alt="Nicode2707" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicode2707&show_icons=true&locale=en&layout=compact" alt="Nicode2707" /></p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicode2707&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=0E8DE4&fire=012148B&ring=0E8DE4" alt="GitHub Streak Stats"/><br/><br/>
 
 ## 🔗 Connect with me
 <a href="https://www.instagram.com/__niraj_2707/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>

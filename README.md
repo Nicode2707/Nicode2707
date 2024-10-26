@@ -31,7 +31,6 @@
 ## 🔗 Connect with me
 <a href="https://www.instagram.com/__niraj_2707/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/niraj-kumar-b603642a1/" target="_blank"><img src="https://img.icons8.com/?size=50&id=13930&format=png" alt="LinkedIn"></a>
-<a href="https://www.geeksforgeeks.org/user/nirajkj2iq/" target="_blank"><img src="https://img.icons8.com/?size=50&id=13930&format=png" alt="GeeksforGeeks"></a>
 
  
 

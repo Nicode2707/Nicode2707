@@ -21,7 +21,12 @@
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
 <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
 
-
+# 📊 GitHub Stats:
+<div align="center">
+    <!--<img src="https://github-profile-trophy.vercel.app/?username=DarkMortal&theme=onestar&no-frame=true&column=3&row=2" alt="GitHub Streak Stats"/><br/>-->
+     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicode2707&show_icons=true&locale=en" alt="Nicode2707" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicode2707&show_icons=true&locale=en&layout=compact" alt="Nicode2707" /></p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicode2707&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=0E8DE4&fire=012148B&ring=0E8DE4" alt="GitHub Streak Stats"/><br/><br/>
 
 ## 🔗 Connect with me
 <a href="https://www.instagram.com/__niraj_2707/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
